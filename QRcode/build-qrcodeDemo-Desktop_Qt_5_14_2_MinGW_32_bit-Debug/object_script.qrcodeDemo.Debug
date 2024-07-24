@@ -1,0 +1,13 @@
+debug/main.o
+debug/mainwindow.o
+debug/bitstream.o
+debug/mask.o
+debug/mmask.o
+debug/mqrspec.o
+debug/qrenc.o
+debug/qrencode.o
+debug/qrinput.o
+debug/qrspec.o
+debug/rsecc.o
+debug/split.o
+debug/moc_mainwindow.o
